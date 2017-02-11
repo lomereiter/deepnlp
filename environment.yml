@@ -1,0 +1,14 @@
+name: deepnlp
+dependencies:
+  - python=3.6
+  - pip
+  - lxml
+  - pandas
+  - numpy
+  - scipy
+  - scikit-learn
+  - matplotlib
+  - jupyter
+  - pip:
+      - gensim
+      - plotly
